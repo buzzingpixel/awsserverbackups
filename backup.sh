@@ -14,7 +14,7 @@ awsBucketName='';
 dirs=();
 databases=();
 tarAsSudo=false;
-tarAsSudoPassword="1234ASDF";
+tarAsSudoPassword=false;
 
 # Import environment variables
 . env.sh
